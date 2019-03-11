@@ -1,2 +1,2 @@
 # Image-Viewer
-[.jpg][.jpeg][.png][.gif][.bmp]
+[.jpg][.jpeg][.jfif][.png][.gif][.bmp]
